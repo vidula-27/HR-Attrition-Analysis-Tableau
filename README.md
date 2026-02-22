@@ -1,8 +1,8 @@
-**HR Attrition Dashboard**
+## HR Attrition Dashboard
 
 This dashboard was developed in Tableau using an HR Excel dataset. Calculated fields such as Attrition Count and Attrition Rate were created to analyze employee turnover trends.
 
-**Key Insights:**
+## Key Insights:
 
 1.R&D department had the highest attrition, while HR had the lowest.
 
