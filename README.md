@@ -20,7 +20,7 @@ The dashboard identifies key attrition patterns and highlights areas with higher
 
 ## 🛠 Tools Used
 - Tableau Public
-- Excel / CSV
+- Excel
 
 ## 🔗 Live Dashboard
 View the interactive dashboard here:
