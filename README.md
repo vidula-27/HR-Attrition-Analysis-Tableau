@@ -26,4 +26,8 @@ The dashboard identifies key attrition patterns and highlights areas with higher
 View the interactive dashboard here:
 👉 https://public.tableau.com/views/hr_dashboard_17716125597740/HRattritionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+## 📊Screenshot
+
+![HR Attrition Dashboard](https://raw.githubusercontent.com/vidula-27/HR-Attrition-Analysis-Tableau/main/Tableau_dashboard_hr_attrtion.png)
+
 
